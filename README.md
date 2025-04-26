@@ -23,7 +23,7 @@ I am actively seeking job opportunities in data science and machine learning. If
 - Educational content creation related to data science
 
 ## 📫 How to reach me...
-- LinkedIn: (https://www.linkedin.com/in/herooshini-manikam-2890111b6/))
+- LinkedIn: (https://www.linkedin.com/in/herooshini-manikam-2890111b6/)
   
 ## 😄 Pronouns: 
 She/Her
