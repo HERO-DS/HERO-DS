@@ -24,9 +24,6 @@ I am actively seeking job opportunities in data science and machine learning. If
 
 ## 📫 How to reach me...
 - LinkedIn: (https://www.linkedin.com/in/herooshini-manikam-2890111b6/)
-  
-## 😄 Pronouns: 
-She/Her
 
 
 Feel free to explore my repositories, open issues to discuss collaboration opportunities, or just connect!
